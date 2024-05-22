@@ -1,0 +1,103 @@
+
+
+     body {
+       
+     background:#00dbffa8;
+     
+		
+      
+          }
+
+
+    h1       {
+  text-transform: uppercase;/*pour mettre les lettre en majiscule*/ 
+  letter-spacing: 3px;/*pour espace les lettre */
+  text-align: center;/*pour mettre le texte au centre*/
+  font-size:2.5rem;/*pour agrandire les lettre*/
+  font-size: 2.5rem;
+  text-shadow: 0 0 0 #111;
+  color:red;
+  background:;
+  text-decoration:underline;
+
+  }
+  
+  main{
+  
+  letter-spacing: 1.5px;/*pour espace les lettre */
+  text-align: center;/*pour mettre le texte au centre*/
+  font-size: 1.5rem;/*pour agrandire les lettre*/
+  background:;
+  color:;
+  height: 30O0;
+   }
+   
+    h2{
+    text-transform: uppercase;/*pour mettre les lettre en majiscule*/ 
+  letter-spacing: 3px;/*pour espace les lettre */
+  text-align: center;/*pour mettre le texte au centre*/
+  font-size:2.5rem;/*pour agrandire les lettre*/     
+		margin:0  auto;
+		color:red;
+	}
+	header{
+	
+	background :black;
+	padding:6px;
+	margin:0 auto;
+	border:200px;
+	
+	}
+	h6{
+	
+	color:green;
+	 
+	 width: 200px;
+          height:auto;
+          left:1;
+          padding:6px;
+	margin:2px;
+	border:2px;
+	 font-size:1rem;/*pour agrandire les lettre*/     
+	}
+	h4{
+	position: center;
+	
+    
+    height: auto;
+   
+    width: 3000px;
+
+   
+      
+        }
+        
+        footer h1{
+            font-family: fantasy;
+            border-bottom: 1px solid white;
+            width: 15%;
+            padding-bottom: 5px;
+        
+        }
+        
+        footer .services{
+            margin-top: -10px;
+            display: flex;
+            flex-wrap: wrap;
+        
+        }
+        
+        footer .services .service{
+            margin-right: 5% ;
+            padding: 10px;
+            
+        }
+        
+        footer .services .service p{
+            max-width: 300px;
+        }
+          
+   
+          
+          
+          
